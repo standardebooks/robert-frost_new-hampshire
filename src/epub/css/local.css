@@ -78,3 +78,25 @@ p span.i15{
 	text-indent: -1em;
 	padding-left: 16em;
 }
+
+article,
+section[epub|type~="part"]{
+	page-break-after: always;
+}
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
+
+[epub|type~="bridgehead"]{
+	display: inline-block;
+	font-style: italic;
+	max-width: 60%;
+	text-align: justify;
+	text-indent: 0;
+}
+
+[epub|type~="bridgehead"] i{
+	font-style: normal;
+}
