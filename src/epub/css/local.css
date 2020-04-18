@@ -1,2 +1,80 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+[epub|type~="dedication"],
+#the-need-of-being-versed-in-country-things{
+	font-style: italic;
+}
+
+[epub|type~="z3998:poem"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:poem"] p > span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+[epub|type~="z3998:poem"] p > span + br{
+	display: none;
+}
+
+[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:poem"] + p{
+	text-indent: 0;
+}
+
+p span.i1{
+	text-indent: -1em;
+	padding-left: 2em;
+}
+
+p span.i5{
+	text-indent: -1em;
+	padding-left: 6em;
+}
+
+p span.i6{
+	text-indent: -1em;
+	padding-left: 7em;
+}
+
+p span.i7{
+	text-indent: -1em;
+	padding-left: 8em;
+}
+
+p span.i8{
+	text-indent: -1em;
+	padding-left: 9em;
+}
+
+p span.i9{
+	text-indent: -1em;
+	padding-left: 10em;
+}
+
+p span.i10{
+	text-indent: -1em;
+	padding-left: 11em;
+}
+
+p span.i12{
+	text-indent: -1em;
+	padding-left: 13em;
+}
+
+p span.i14{
+	text-indent: -1em;
+	padding-left: 15em;
+}
+
+p span.i15{
+	text-indent: -1em;
+	padding-left: 16em;
+}
