@@ -96,3 +96,9 @@ span[epub|type~="subtitle"]{
 	text-align: justify;
 	text-indent: 0;
 }
+
+/* Move the bridgeheads closer to the poem titles */
+header h3,
+header h4{
+	margin-bottom: 1em;
+}
