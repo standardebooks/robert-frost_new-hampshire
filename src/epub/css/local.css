@@ -81,7 +81,7 @@ p span.i15{
 
 article,
 section[epub|type~="part"]{
-	page-break-after: always;
+	break-after: page;
 }
 
 span[epub|type~="subtitle"]{
