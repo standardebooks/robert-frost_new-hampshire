@@ -84,11 +84,6 @@ section[epub|type~="part"]{
 	break-after: page;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 [epub|type~="bridgehead"]{
 	display: inline-block;
 	font-style: italic;
