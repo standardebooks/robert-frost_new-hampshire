@@ -17,8 +17,8 @@ header p[epub|type~="dedication"]{
 
 [epub|type~="z3998:poem"] p > span{
 	display: block;
-	text-indent: -1em;
 	padding-left: 1em;
+	text-indent: -1em;
 }
 
 [epub|type~="z3998:poem"] p > span + br{
@@ -30,28 +30,28 @@ header p[epub|type~="dedication"]{
 }
 
 p span.i1{
-	text-indent: -1em;
 	padding-left: 2em;
+	text-indent: -1em;
 }
 
 p span.i5{
-	text-indent: -1em;
 	padding-left: 6em;
+	text-indent: -1em;
 }
 
 p span.i6{
-	text-indent: -1em;
 	padding-left: 7em;
+	text-indent: -1em;
 }
 
 p span.i7{
-	text-indent: -1em;
 	padding-left: 8em;
+	text-indent: -1em;
 }
 
 p span.i8{
-	text-indent: -1em;
 	padding-left: 9em;
+	text-indent: -1em;
 }
 
 p span.i9{
