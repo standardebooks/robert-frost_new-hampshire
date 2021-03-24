@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="new-hampshire.xhtml">
-		<ignore>
-			<code>s-063</code>
-			<reason>The persona lines were styled with italics in the source; using &lt;b&gt; then styling it with italics would be a little tortured.</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
