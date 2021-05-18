@@ -54,7 +54,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/000433611</dc:source>
 		<meta property="se:word-count">19852</meta>
 		<meta property="se:reading-ease.flesch">77.98</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/New_Hampshire</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/New_Hampshire_(poetry_collection)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-frost_new-hampshire</meta>
 		<dc:creator id="author">Robert Frost</dc:creator>
 		<meta property="file-as" refines="#author">Frost, Robert</meta>
