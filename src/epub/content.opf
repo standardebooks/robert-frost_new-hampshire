@@ -43,6 +43,9 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Poetry</meta>
 		<meta property="se:is-a-collection">true</meta>
+		<meta id="collection-1" property="belongs-to-collection">Pulitzer Prize for Poetry Winners</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">3</meta>
 		<dc:description id="description">Robert Frost’s Pulitzer-winning book of poetry.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/robert-frost"&gt;Robert Frost&lt;/a&gt; published &lt;i&gt;New Hampshire&lt;/i&gt;, his fourth book of poetry, in 1923. The centerpiece is the long poem “New Hampshire,” an ode to the state. Endnotes on its lines point to shorter poems in the “Notes” section, and the book is capped with “Grace Notes,” a series of short lyrics—some of which are among Frost’s most famous works. The poems are each a meditative brushstroke of Americana, presented in Frost’s trademark plain-spoken but carefully-considered verse. The collection went on to win the 1924 Pulitzer prize for poetry, the first of four Frost would go on to receive.&lt;/p&gt;
