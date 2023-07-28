@@ -79,6 +79,10 @@ p span.i15{
 	text-indent: -1em;
 }
 
+[epub|type~="z3998:poem"] hgroup p{
+	text-align: center;
+}
+
 article,
 section[epub|type~="part"]{
 	break-after: page;
